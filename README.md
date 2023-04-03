@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/23049337/226212853-5b96a6ff-5a41-4b1c-9262-38666e43b491.png)
+![image](https://user-images.githubusercontent.com/23049337/229499416-08c673c5-53d1-48bb-96b5-de6664a27ba4.png)
 
  
 Kubernetes in Docker with Terraform
@@ -7,7 +7,7 @@ Kubernetes in Docker with Terraform
 
 🎯 About
 
-OpenMetadata Unlock the value of data assets with an end-to-end metadata platform that includes data discovery, governance, data quality, observability, and people collaborationd.
+Kanister is a data protection workflow management tool. It provides a set of cohesive APIs for defining and curating data operations by abstracting away tedious details around executing data operations on Kubernetes. It's extensible and easy to install, operate and scale
 🚀 Technologies
 
 OpenMetadata depends on following components to build a metadata platform
